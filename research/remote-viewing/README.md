@@ -37,6 +37,7 @@ A practitioner can therefore work from a first-principles possibility premise wh
 | Understand “signal line,” AOL, and competing mechanisms | [`mechanism-hypotheses.md`](mechanism-hypotheses.md) |
 | Conduct a first clean session | [`practice-protocol.md`](practice-protocol.md) |
 | Design a study that can survive criticism | [`experimental-method.md`](experimental-method.md) |
+| Audit civilian tools, communities, media, voice agents, and state/substance claims | [`civilian-tools-and-media.md`](civilian-tools-and-media.md) |
 | Print a session worksheet | [`session-template.md`](session-template.md) |
 | Inspect the primary-source universe | [`source-map.md`](source-map.md) and [`source-index.json`](source-index.json) |
 | Inspect claim status without reading prose | [`claims.json`](claims.json) |
