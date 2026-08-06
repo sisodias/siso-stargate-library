@@ -1,0 +1,231 @@
+{
+  "schema_version": "0.1.0",
+  "record_type": "remote_viewing_source_records",
+  "module": "remote-viewing-research-and-practice",
+  "scope_note": "Government programme, declassified session, contractor-theory, and practitioner-access records.",
+  "sources": [
+    {
+      "id": "SRC-CIA-AIR-1995",
+      "title": "An Evaluation of Remote Viewing: Research and Applications",
+      "authors_or_owner": "American Institutes for Research; commissioned by the Central Intelligence Agency",
+      "date": "1995-09-29",
+      "source_type": "government_evaluation",
+      "locator": "https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "programme_closeout",
+        "laboratory_evidence_review",
+        "operational_utility_review",
+        "opposing_expert_assessments"
+      ],
+      "stance_or_result": "The review reported statistically above-chance laboratory results, did not resolve their cause, found operational products vague and inconsistent, and recommended against continued intelligence use. The included Utts and Hyman assessments disagreed about paranormal attribution.",
+      "limitations": "A retrospective review of a selected programme record; it does not settle every remote-viewing protocol, every historical claim, or later research.",
+      "rights_note": "United States government-hosted record. Link to the official archive; do not infer rights for every embedded third-party contribution."
+    },
+    {
+      "id": "SRC-CRV-MANUAL-1986",
+      "title": "Coordinate Remote Viewing Manual",
+      "authors_or_owner": "Paul H. Smith with contributions and review by Fort Meade CRV personnel; external archival copy hosted by Center Lane Project",
+      "date": "1986-05-01",
+      "source_type": "historical_practitioner_manual",
+      "locator": "https://centerlane-rv.org/manual",
+      "authority": "secondary_archive_of_primary_document",
+      "evidence_role": [
+        "controlled_remote_viewing_method",
+        "stage_vocabulary",
+        "aol_vocabulary",
+        "practitioner_theory",
+        "manual_provenance"
+      ],
+      "stance_or_result": "Presents the six-stage CRV method and its internal theory in a scan and transcription associated with the manual printed at the DIA press in May 1986. It documents what the method's military practitioners sought to preserve; it is not independent proof of efficacy or mechanism.",
+      "limitations": "The manual reportedly had no official DIA document number and was first circulated publicly through private/community channels in 1998. The external scan, revision lineage, authorship claims, and page integrity require preservation receipts; the document is not a CIA Reading Room file.",
+      "rights_note": "External historical/practitioner archive. Link only; do not characterize the file as CIA-owned or assume redistribution rights."
+    },
+    {
+      "id": "SRC-CIA-CRVT-1982",
+      "title": "COORDINATE REMOTE VIEWING TRAINING (CRVT)",
+      "authors_or_owner": "United States Army programme record",
+      "date": "1982-11-08",
+      "source_type": "declassified_training_record",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001400880001-1",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "controlled_remote_viewing_training",
+        "stage_notation",
+        "feedback_classification"
+      ],
+      "stance_or_result": "A declassified record of structured coordinate/controlled remote-viewing training and its reporting conventions.",
+      "limitations": "The archive metadata and document body establish a training record; they do not independently establish efficacy, mechanism, or general trainability.",
+      "rights_note": "Link to the official archive and preserve the original document identifier and markings."
+    },
+    {
+      "id": "SRC-CIA-RV018-1985",
+      "title": "REMOTE VIEWING TRAINING SESSION, RV-018",
+      "authors_or_owner": "United States Army / STARGATE predecessor programme",
+      "date": "1985-01-17",
+      "source_type": "declassified_session_record",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00789r001500060001-9",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "worked_crv_session",
+        "stage_iv_example",
+        "operational_record"
+      ],
+      "stance_or_result": "A documented CRV session identified in the archive as reaching Stage IV and containing a summary of perceived descriptors.",
+      "limitations": "A single historical session cannot establish accuracy, mechanism, generality, or operational value; assess tasking, feedback, judging, and the complete file together.",
+      "rights_note": "Link to the official archive; do not copy the entire payload into the Library without a separate rights and preservation review."
+    },
+    {
+      "id": "SRC-CIA-LIII-1978",
+      "title": "Remote Viewing Session LIII",
+      "authors_or_owner": "United States Army programme record",
+      "date": "1978-01-01",
+      "source_type": "declassified_session_record",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r000900390001-1",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "explicit_null_case",
+        "protocol_deviation_case"
+      ],
+      "stance_or_result": "The report explicitly records no target correlation and notes a protocol deviation.",
+      "limitations": "The date is represented at year precision in this index until the scanned cover sheet is independently transcribed and checked.",
+      "rights_note": "Link to the official archive and preserve the negative result in any corpus derived from it."
+    },
+    {
+      "id": "SRC-CIA-876-1982",
+      "title": "REMOTE VIEWING SESSION #876",
+      "authors_or_owner": "United States Army programme record",
+      "date": "1982-03-22",
+      "source_type": "declassified_session_record",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001400250001-0",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "low_correlation_case",
+        "operational_record"
+      ],
+      "stance_or_result": "The archived evaluation characterizes the session as having very little correlation with the target.",
+      "limitations": "One low-correlation session does not estimate the programme-wide rate; preserve it with the complete target, transcript, and comparison series.",
+      "rights_note": "Link to the official archive and retain the miss alongside apparent hits."
+    },
+    {
+      "id": "SRC-CIA-XCI",
+      "title": "Remote Viewing Session XCI",
+      "authors_or_owner": "United States Army programme record",
+      "date": "1979-01-01",
+      "source_type": "declassified_session_record",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r000900970001-7",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "apparent_correlation_case",
+        "coordinate_error_case",
+        "operational_record"
+      ],
+      "stance_or_result": "The report discusses an erroneous coordinate and an apparent match to the location associated with the coordinates actually used, making it relevant to cue, tasking, and interpretation hypotheses.",
+      "limitations": "The case is evidentially interesting but does not by itself distinguish anomalous information transfer from record, cue, or post hoc interpretation effects.",
+      "rights_note": "Link to the official archive; preserve the complete context rather than only the striking passage."
+    },
+    {
+      "id": "SRC-CIA-CD58-1980",
+      "title": "TRANSCRIPT REMOTE VIEWING (RV) SESSION CD-58",
+      "authors_or_owner": "United States Army programme record",
+      "date": "1980-06-19",
+      "source_type": "declassified_session_record",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r002100210001-6",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "hostage_operation_record",
+        "raw_intelligence_boundary"
+      ],
+      "stance_or_result": "A historical hostage-related tasking file that labels the output as raw intelligence information requiring evaluation by the requester.",
+      "limitations": "Tasking a session does not demonstrate that the output was correct, causal, or useful. Operational outcome evidence must be separately located.",
+      "rights_note": "Link to the official archive; do not use the historical file to make claims about private living people."
+    },
+    {
+      "id": "SRC-CIA-SUN-STREAK-1987",
+      "title": "SUN STREAK Remote Viewing Session 8715",
+      "authors_or_owner": "Defense Intelligence Agency / SUN STREAK programme",
+      "date": "1987-09-28",
+      "source_type": "declassified_session_record",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00789r000200160009-4",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "sun_streak_procedure",
+        "operational_record"
+      ],
+      "stance_or_result": "A SUN STREAK-era session useful for comparing later programme procedure and reporting language with earlier records.",
+      "limitations": "Read the tasking, transcript, evaluation, and any feedback as separate artifacts; one procedure record does not establish accuracy or operational value.",
+      "rights_note": "Link to the official archive and retain original document identifiers."
+    },
+    {
+      "id": "SRC-CENTERLANE-MANUAL-READER",
+      "title": "Controlled Remote Viewing Manual reader and provenance notes",
+      "authors_or_owner": "Center Lane Remote Viewing community archive",
+      "date": "2026-08-07",
+      "source_type": "practitioner_archive_and_access_aid",
+      "locator": "https://centerlane-rv.org/manual",
+      "authority": "secondary_practitioner_source",
+      "evidence_role": [
+        "manual_navigation",
+        "stage_index",
+        "provenance_lead"
+      ],
+      "stance_or_result": "Provides a readable navigation surface for the CRV manual and stage structure.",
+      "limitations": "Use as an access aid to the externally archived 1986 manual scan, not as independent evidence of the method’s efficacy or as proof of official DIA archival custody.",
+      "rights_note": "External community site. Link only; ownership and reuse terms must be checked independently."
+    },
+    {
+      "id": "SRC-DIA-USSR-1972",
+      "title": "CONTROLLED OFFENSIVE BEHAVIOR — USSR",
+      "authors_or_owner": "United States Army Medical Intelligence Office / Defense Intelligence Agency; preserved in the CIA STARGATE collection",
+      "date": "1972-01-01",
+      "source_type": "declassified_foreign_programme_assessment",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00792r000600360001-2",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "cold_war_motivation",
+        "soviet_research_assessment",
+        "foreign_programme_history",
+        "source_criticism_case"
+      ],
+      "stance_or_result": "Documents a U.S. intelligence assessment of reported Soviet work on behavior influence, biocommunications, parapsychology, and possible military applications, showing that such claims were collected and treated as a potential intelligence concern.",
+      "limitations": "This is a U.S. intelligence compilation of reported, translated, and assessed Soviet activity—not a complete Soviet primary archive, an independent replication, or proof that the alleged capabilities worked. The date is indexed at year precision pending a page-level provenance receipt because public descriptions conflict on the exact month.",
+      "rights_note": "Link to the official CIA STARGATE collection record and preserve the original document identifier, markings, and assessment context."
+    },
+    {
+      "id": "SRC-CIA-PAT-1975",
+      "title": "PERCEPTUAL AUGMENTATION TECHNIQUES PART TWO—RESEARCH REPORT",
+      "authors_or_owner": "Harold E. Puthoff and Russell Targ, Stanford Research Institute; United States government-sponsored contractor report",
+      "date": "1975-12-01",
+      "source_type": "government_hosted_contractor_research_report",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300030003-0",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "early_sri_programme_report",
+        "protocol_and_training_history",
+        "source_reported_positive_results",
+        "operational_claim_history"
+      ],
+      "stance_or_result": "The 155-page final report states the SRI investigators’ positive laboratory and operational interpretation of their 1974–1975 work and documents the procedures, targets, and claims they presented to the sponsor.",
+      "limitations": "A contractor final report is authoritative evidence of what the investigators did and claimed, not independent validation of the findings. Read it with the published critiques, replication record, NRC review, AIR review, and complete trial accounting.",
+      "rights_note": "United States government-hosted record containing contractor-authored material. Link to the official archive; do not infer unrestricted reuse rights for embedded text, figures, photographs, or third-party material."
+    },
+    {
+      "id": "SRC-CIA-DAT-1995",
+      "title": "DECISION AUGMENTATION THEORY: TOWARD A MODEL OF ANOMALOUS MENTAL PHENOMENA",
+      "authors_or_owner": "Edwin C. May, Jessica M. Utts, and S. James P. Spottiswoode; SAIC-era research record in the CIA STARGATE collection",
+      "date": "1995-05-16",
+      "source_type": "government_hosted_theoretical_research_report",
+      "locator": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200280002-5",
+      "authority": "primary_government_record",
+      "evidence_role": [
+        "decision_augmentation_hypothesis",
+        "precognition_model",
+        "mechanism_separating_predictions",
+        "statistical_model_history"
+      ],
+      "stance_or_result": "Proposes a testable phenomenological model in which apparent anomalous outcomes arise through information-mediated selection or decision bias rather than a force-like influence, and discusses future-to-past information as one possible underlying account.",
+      "limitations": "The document proposes and analyzes a model; it does not establish that anomalous cognition, precognition, or decision augmentation exists, nor that the model explains remote-viewing results. Its predictions require independent prospective tests.",
+      "rights_note": "United States government-hosted record with named external authors. Link to the official archive and preserve attribution; do not infer blanket reuse rights."
+    }
+  ]
+}
