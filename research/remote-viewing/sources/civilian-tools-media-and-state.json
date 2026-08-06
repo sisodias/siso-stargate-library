@@ -1,0 +1,223 @@
+{
+  "schema_version": "0.1.0",
+  "record_type": "remote_viewing_source_records",
+  "module": "remote-viewing-research-and-practice",
+  "scope_note": "Civilian software repositories, product surfaces, practitioner communities, recorded-media access points, and a primary cognitive-state study used to audit claims in the motivating conversation.",
+  "sources": [
+    {
+      "id": "SRC-GH-PSITOOL",
+      "title": "psitool: Tools for aiding remote viewing",
+      "authors_or_owner": "psitool GitHub organization and repository contributors",
+      "date": "2025-09-29",
+      "source_type": "open_source_software_repository",
+      "locator": "https://github.com/psitool/psitool",
+      "authority": "software_primary_source",
+      "evidence_role": [
+        "civilian_target_pool_tool",
+        "blind_target_selection",
+        "local_pool_management",
+        "license_and_feature_audit"
+      ],
+      "stance_or_result": "The GPL-3.0 Rust repository documents utilities for selecting from local target pools, avoiding completed targets, downloading Wikimedia candidates, preserving target metadata, generating content-derived identifiers, revealing targets, and recording user-entered practice notes.",
+      "limitations": "Repository functionality does not validate remote viewing. The documented workflow does not by itself supply independent assignment custody, immutable transcript locking, blind decoy judging, preregistration, or objective scoring; deployment and current maintenance must be checked separately.",
+      "rights_note": "Code is identified by the repository as GPL-3.0. Link to the upstream repository and preserve its license, notices, and target-media rights."
+    },
+    {
+      "id": "SRC-GH-RVME",
+      "title": "RVMe",
+      "authors_or_owner": "nykotar and contributors; described as maintained by moderators of r/remoteviewing",
+      "date": "2020-10-19",
+      "source_type": "archived_open_source_software_repository",
+      "locator": "https://github.com/nykotar/rvme",
+      "authority": "software_primary_source",
+      "evidence_role": [
+        "community_target_pool_design",
+        "precognitive_assignment_mode",
+        "personal_target_workflow",
+        "archived_software"
+      ],
+      "stance_or_result": "The AGPL-3.0 repository documents a collaborative target-pool website with moderated targets, difficulty levels, additional feedback, no-repeat selection, personal targets, and a target-at-reveal precognitive mode.",
+      "limitations": "The repository is archived. Its README documents intended features, not the security, availability, or exact behavior of any current deployment, and none of the features establishes anomalous perception.",
+      "rights_note": "Code is identified by the repository as AGPL-3.0. Link to the archived upstream repository and observe target-media rights separately."
+    },
+    {
+      "id": "SRC-GH-ECHO-CLAW",
+      "title": "ECHO-CLAW",
+      "authors_or_owner": "lukeskytorep-bot repository; named human and AI collaborators in the README",
+      "date": "2026-08-07",
+      "source_type": "experimental_ai_framework_repository",
+      "locator": "https://github.com/lukeskytorep-bot/echo-claw",
+      "authority": "software_and_design_primary_source",
+      "evidence_role": [
+        "ai_monitor_viewer_architecture",
+        "target_vault_design",
+        "external_memory_design",
+        "conceptual_framework"
+      ],
+      "stance_or_result": "The CC BY 4.0 repository proposes target-separated AI Monitor and Viewer roles, external memory, post-reveal correction, and future multi-agent remote-viewing experiments, while explicitly disclaiming proof, completion, and guaranteed success.",
+      "limitations": "The repository is primarily architecture, documents, examples, and templates. Role names do not prove process isolation, target blindness, valid scoring, or efficacy.",
+      "rights_note": "Repository materials are identified as CC BY 4.0; linked PDFs and third-party material may have distinct rights and require separate review."
+    },
+    {
+      "id": "SRC-CLAIRV-WEB-2026",
+      "title": "ClairV web application surface",
+      "authors_or_owner": "ClairV web application publisher; ownership not independently resolved in this review",
+      "date": "2026-08-07",
+      "source_type": "web_application_surface",
+      "locator": "https://clairv.io/",
+      "authority": "product_surface",
+      "evidence_role": [
+        "civilian_practice_application",
+        "provenance_gap"
+      ],
+      "stance_or_result": "A JavaScript application surface was reachable at the reviewed domain.",
+      "limitations": "The rendered surface did not expose enough information here to verify target generation, scoring, privacy, deployment revision, or source-code provenance. No claim of open-source status is made by this module.",
+      "rights_note": "External web application. Link only; do not copy code, targets, branding, or user content."
+    },
+    {
+      "id": "SRC-VEREVIO-APPSTORE-2026",
+      "title": "VEREVIO - ESP & Remote Viewing",
+      "authors_or_owner": "Kostart Ltd; Apple App Store listing",
+      "date": "2026-08-07",
+      "source_type": "commercial_app_listing",
+      "locator": "https://apps.apple.com/us/app/verevio-esp-remote-viewing/id6503892279",
+      "authority": "vendor_and_platform_product_metadata",
+      "evidence_role": [
+        "consumer_training_app",
+        "exercise_inventory",
+        "privacy_and_purchase_metadata",
+        "vendor_claim_audit"
+      ],
+      "stance_or_result": "The listing describes remote-viewing, telepathy, precognition, postcognition, whiteboard, quiz, target, scan-box, and statistics features, with in-app purchases and privacy disclosures.",
+      "limitations": "Vendor descriptions, ratings, and promotional language are not independent validation. The listing does not provide an auditable target corpus, randomization log, scoring implementation, complete trial ledger, or efficacy study.",
+      "rights_note": "Proprietary application and listing content. Link only; do not reproduce app assets or user data."
+    },
+    {
+      "id": "SRC-SOCIAL-RV-2026",
+      "title": "Social RV practice platform",
+      "authors_or_owner": "Social RV",
+      "date": "2026-08-07",
+      "source_type": "commercial_and_community_platform_surface",
+      "locator": "https://www.social-rv.com/landing",
+      "authority": "vendor_product_primary_source",
+      "evidence_role": [
+        "blind_target_workflow",
+        "session_upload",
+        "ai_decoy_ranking",
+        "community_platform"
+      ],
+      "stance_or_result": "The platform says it assigns random targets, accepts session uploads, reveals after submission, and uses a blind AI judge to rank the target against nine decoys.",
+      "limitations": "The public product surface does not independently establish the deployed code, target-label isolation, model and prompt stability, decoy fairness, data completeness, statistical calibration, or efficacy.",
+      "rights_note": "External proprietary service. Link only; do not republish targets, screenshots, scoring prompts, or user sessions without permission."
+    },
+    {
+      "id": "SRC-IRVA-2026",
+      "title": "International Remote Viewing Association",
+      "authors_or_owner": "International Remote Viewing Association",
+      "date": "2026-08-07",
+      "source_type": "practitioner_and_research_association_surface",
+      "locator": "https://www.irva.org/",
+      "authority": "organization_primary_source",
+      "evidence_role": [
+        "civilian_community",
+        "education",
+        "research_network",
+        "historical_archive_access"
+      ],
+      "stance_or_result": "IRVA describes itself as a nonprofit membership organization for remote-viewing education, research, history, conferences, practice, and professional networking.",
+      "limitations": "An organizational self-description establishes activities and access points, not the efficacy of remote viewing or independent validation of member claims.",
+      "rights_note": "External organization site. Link and quote sparingly; conference, archive, magazine, and member materials may have separate access and rights terms."
+    },
+    {
+      "id": "SRC-IRVA-FOCAL-POINT-2026",
+      "title": "IRVA Focal Point",
+      "authors_or_owner": "International Remote Viewing Association",
+      "date": "2026-08-07",
+      "source_type": "community_practice_target_program",
+      "locator": "https://www.irva.org/focal-point",
+      "authority": "organization_primary_source",
+      "evidence_role": [
+        "practice_targets",
+        "feedback_schedule",
+        "community_session_submission",
+        "target_rights_guidance"
+      ],
+      "stance_or_result": "The programme publishes practice targets and later feedback, accepts completed sessions, and asks target contributors to use public-domain or Creative Commons images.",
+      "limitations": "A practice programme is not automatically a preregistered experiment; participant selection, missing sessions, judging, and complete outcome accounting require separate records.",
+      "rights_note": "External programme. Link only and respect target-image licenses, participant privacy, and membership terms."
+    },
+    {
+      "id": "SRC-IRVA-FIRESIDE-2026",
+      "title": "Remote Viewing Fireside Chats",
+      "authors_or_owner": "International Remote Viewing Association",
+      "date": "2026-08-07",
+      "source_type": "practitioner_interview_and_recorded_talk_index",
+      "locator": "https://www.irva.org/fireside-chats",
+      "authority": "organization_media_primary_source",
+      "evidence_role": [
+        "recorded_interviews",
+        "practitioner_testimony",
+        "historical_leads",
+        "media_evidence_boundary"
+      ],
+      "stance_or_result": "IRVA provides an index of recorded conversations and talks with remote-viewing practitioners and researchers.",
+      "limitations": "Interviews and talks document testimony and viewpoints. Unless a specific recording includes auditable blind tasking, complete artifacts, and independent judging, it is not a controlled efficacy test.",
+      "rights_note": "External recorded media. Link to the publisher; do not mirror video or transcripts without permission."
+    },
+    {
+      "id": "SRC-MONROE-RV-2026",
+      "title": "Remote Viewing I programme",
+      "authors_or_owner": "The Monroe Institute",
+      "date": "2026-08-07",
+      "source_type": "commercial_training_program_surface",
+      "locator": "https://www.monroeinstitute.org/products/remote-viewing-i",
+      "authority": "provider_primary_source",
+      "evidence_role": [
+        "contemporary_training_model",
+        "viewer_monitor_judge_roles",
+        "double_blind_trial_claim",
+        "recorded_instruction"
+      ],
+      "stance_or_result": "The programme describes Viewer, Monitor, and Judge roles, double-blind independently judged trials, audio exercises, live training, and use of recorded presentations when necessary.",
+      "limitations": "Provider descriptions, course exercises, biographies, testimonials, and demonstrations are not independent evidence of efficacy. Trial artifacts and analysis would need separate release.",
+      "rights_note": "External commercial programme. Link only; course materials, audio, recordings, and participant data are proprietary or private."
+    },
+    {
+      "id": "SRC-REDDIT-RV-2026",
+      "title": "r/remoteviewing community",
+      "authors_or_owner": "Reddit community moderators and users",
+      "date": "2026-08-07",
+      "source_type": "user_generated_community_surface",
+      "locator": "https://www.reddit.com/r/remoteviewing/",
+      "authority": "community_primary_source",
+      "evidence_role": [
+        "tool_discovery",
+        "practice_guides",
+        "session_posts",
+        "community_discussion"
+      ],
+      "stance_or_result": "The community hosts guides, discussions, software and target-pool leads, and user-posted remote-viewing material.",
+      "limitations": "Posts are user-generated, self-selected, editable, and potentially incomplete. Community popularity and striking session posts do not establish controlled performance.",
+      "rights_note": "Link to posts and preserve attribution. Do not bulk-copy user content or treat public posting as consent for research redistribution."
+    },
+    {
+      "id": "SRC-THC-WORKING-MEMORY-2020",
+      "title": "Δ9-Tetrahydrocannabinol (THC) impairs visual working memory performance: a randomized crossover trial",
+      "authors_or_owner": "Kirsten C. S. Adam, Manoj K. Doss, Elisa Pabon, Edward K. Vogel, and Harriet de Wit",
+      "date": "2020-05-09",
+      "source_type": "peer_reviewed_randomized_crossover_trial",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32386395/",
+      "authority": "scholarly_primary_source",
+      "evidence_role": [
+        "acute_thc_cognition",
+        "working_memory",
+        "mind_wandering",
+        "metacognitive_accuracy",
+        "substance_claim_boundary"
+      ],
+      "stance_or_result": "Two double-blind randomized crossover experiments reported that acute oral THC impaired visual working-memory performance, increased mind wandering in one experiment, and reduced metacognitive accuracy in another.",
+      "limitations": "This was not a remote-viewing study and cannot determine whether THC improves or worsens remote-viewing outcomes. Samples were modest and tested specified acute oral doses and cognitive tasks.",
+      "rights_note": "Link to the PubMed record and article identifiers; do not republish publisher-owned text or figures beyond applicable terms."
+    }
+  ]
+}
