@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "record_type": "event",
+  "id": "gls:event:a5b790fd-abe1-49e9-a648-76676c50ba17",
+  "occurred_at": "2026-08-07T00:35:49+07:00",
+  "recorded_at": "2026-08-07T00:35:49+07:00",
+  "immutable": true,
+  "entry_type": "initiative_started",
+  "thread": {
+    "id": "gls:thread:remote-viewing-research-module",
+    "name": "Remote Viewing Research Module",
+    "kind": "research"
+  },
+  "status": "active",
+  "title": "Remote viewing research and practice module started",
+  "summary": "A bounded Research module is being authored to preserve the declassified STARGATE record, distinguish Controlled Remote Viewing practitioner theory from established findings, teach a reproducible blind practice protocol, and make positive, null, ambiguous, and critical evidence inspectable without creating a parallel registry.",
+  "intent": "Place remote viewing inside the existing Research section as an authored, testable module; honor the requested first-principles practice premise while preserving an independent evidence track; and provide source maps, session templates, target-management tooling, judging rules, and promotion gates for later Work and Release registration.",
+  "reasoning": [
+    "The subject combines historical archives, a contested empirical literature, practitioner methods, and repeatable experiments, so Research is a better first boundary than History, Intelligence, or a generic skills collection.",
+    "The user-provided framing asks to move past an abstract possibility debate and investigate how remote viewing is said to work and how to do it; the module can adopt that premise for practice without silently treating the Matrix, signal line, telepathy, clairvoyance, or precognition as established mechanisms.",
+    "The 1995 AIR review reported above-chance laboratory results while rejecting continued intelligence use, and its expert reviewers disagreed about paranormal attribution; successful, failed, and ambiguous declassified sessions must therefore be preserved together.",
+    "The active People Graph registry lane owns the next whole-Library Snapshot and related registry surfaces, while another active Research lane reserves the root documentation indexes; this module is isolated under research/remote-viewing and can be promoted to an independently addressable Work after those lanes close.",
+    "External manuals, papers, and government documents remain upstream-owned; the Library will publish original synthesis, metadata, and tools, and will link to source payloads rather than copying them wholesale."
+  ],
+  "changes": [
+    {
+      "kind": "coordination",
+      "reference": "gls:thread:remote-viewing-research-module",
+      "summary": "Reserved a new research/remote-viewing module and this append-only Event thread for a draft pull request."
+    }
+  ],
+  "scope": {
+    "work_ids": [
+      "gls:work:9b18cc64-7d5e-4f30-b63d-a0ec30c1f7e1",
+      "gls:work:2fa08dac-937a-44d3-a547-f16ac28c4e25"
+    ],
+    "repository_urls": [
+      "https://github.com/sisodias/great-library-of-siso"
+    ]
+  },
+  "coordination": {
+    "owner": "GPT-5.6 Pro for Shaan Sisodia",
+    "branch": "agent/remote-viewing-research-module",
+    "reserved_paths": [
+      "research/remote-viewing/**",
+      "registry/events/2026-08-07-remote-viewing-research-*.json"
+    ]
+  },
+  "visibility": "public",
+  "evidence": [
+    {
+      "kind": "documentation",
+      "reference": "user-intent:remote-viewing-module:2026-08-07",
+      "observed_at": "2026-08-07",
+      "summary": "Shaan requested a deep-research Great Library module on remote viewing, how to perform it, and the associated documents, using a first-principles practice framing rather than another abstract possibility debate."
+    },
+    {
+      "kind": "source_review",
+      "reference": "source-review:remote-viewing-primary-record:2026-08-07",
+      "observed_at": "2026-08-07",
+      "summary": "CIA STARGATE records, the 1995 AIR evaluation and its opposing expert reviews, early Nature and IEEE studies and critiques, later systematic review work, and the 2026 expert-guideline paper were reviewed before selecting the module boundary."
+    },
+    {
+      "kind": "integration_check",
+      "reference": "github-api:sisodias/great-library-of-siso:main@e96e37f9c10ab5b6ef9f3e91484ddc2fa410eefc",
+      "observed_at": "2026-08-07",
+      "summary": "Current main, open draft pull requests, path reservations, Research contracts, and publication rules were inspected; the selected paths do not overlap the active UNSOLVEABLE Mathematics or People Graph lanes."
+    }
+  ],
+  "next_actions": [
+    "Author the module constitution, history and evidence review, mechanism-hypothesis map, practice protocol, experimental method, source ledger, session template, and public-safe target-management tool.",
+    "Validate all JSON and Python artifacts locally, check links and source identifiers, run the module verifier and tests, and compare stored Git blobs with the locally validated files.",
+    "Open a draft pull request and close this Event thread with exact changed paths, validation results, remaining source and licensing limits, and the gate for later Work, Release, Source Inventory, and Snapshot promotion."
+  ]
+}
