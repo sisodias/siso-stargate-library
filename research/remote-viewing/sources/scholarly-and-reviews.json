@@ -1,0 +1,194 @@
+{
+  "schema_version": "0.1.0",
+  "record_type": "remote_viewing_source_records",
+  "module": "remote-viewing-research-and-practice",
+  "scope_note": "Peer-reviewed experiments, critiques, consensus reviews, expert assessments, and current syntheses.",
+  "sources": [
+    {
+      "id": "SRC-TARG-PUTHOFF-1974",
+      "title": "Information transmission under conditions of sensory shielding",
+      "authors_or_owner": "Russell Targ and Harold Puthoff; Nature",
+      "date": "1974-10-18",
+      "source_type": "peer_reviewed_experiment",
+      "locator": "https://doi.org/10.1038/251602a0",
+      "authority": "scholarly_primary_source",
+      "evidence_role": [
+        "early_sri_report",
+        "hidden_target_experiment",
+        "positive_result"
+      ],
+      "stance_or_result": "Reports experiments interpreted by the authors as evidence of information transfer under sensory shielding.",
+      "limitations": "Early small-sample work; later critics challenged controls, judging, and reproducibility. Read with the replies and critiques.",
+      "rights_note": "Publisher-owned scholarly article. Link by DOI; do not republish the article text."
+    },
+    {
+      "id": "SRC-PUTHOFF-TARG-1976",
+      "title": "A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research",
+      "authors_or_owner": "Harold Puthoff and Russell Targ; Proceedings of the IEEE",
+      "date": "1976-03-01",
+      "source_type": "peer_reviewed_experiment_and_review",
+      "locator": "https://ntrs.nasa.gov/citations/19760042112",
+      "authority": "scholarly_primary_source",
+      "evidence_role": [
+        "early_sri_programme",
+        "protocol_description",
+        "positive_result"
+      ],
+      "stance_or_result": "Presents the authors' historical and experimental case for anomalous remote information transfer over distance.",
+      "limitations": "Combines review and advocacy with experimental reporting; independent replication and protocol criticism must be evaluated separately.",
+      "rights_note": "Use the NASA bibliographic locator and publisher record; do not assume unrestricted rights to the published article."
+    },
+    {
+      "id": "SRC-MARKS-KAMMANN-1978",
+      "title": "Information transmission in remote viewing experiments",
+      "authors_or_owner": "David Marks and Richard Kammann; Nature",
+      "date": "1978-10-19",
+      "source_type": "peer_reviewed_critique_and_replication",
+      "locator": "https://doi.org/10.1038/274680a0",
+      "authority": "scholarly_primary_source",
+      "evidence_role": [
+        "failed_replication",
+        "transcript_cueing_critique",
+        "negative_result"
+      ],
+      "stance_or_result": "Reports failed duplication and argues that cues in transcripts and judging procedures can account for striking matches in earlier work.",
+      "limitations": "The original authors disputed the interpretation; assess the exchange and exact data rather than citing only one side.",
+      "rights_note": "Publisher-owned scholarly article. Link by DOI; do not republish the article text."
+    },
+    {
+      "id": "SRC-TART-PUTHOFF-TARG-1980",
+      "title": "Remote viewing: a response to Marks and Kammann",
+      "authors_or_owner": "Charles Tart, Harold Puthoff, and Russell Targ; Nature",
+      "date": "1980-03-13",
+      "source_type": "peer_reviewed_reply",
+      "locator": "https://doi.org/10.1038/284191a0",
+      "authority": "scholarly_primary_source",
+      "evidence_role": [
+        "methodological_reply",
+        "proponent_response"
+      ],
+      "stance_or_result": "Challenges the claim that transcript cues explain the original remote-viewing findings.",
+      "limitations": "A reply in a disputed exchange; it should not be treated as an independent replication.",
+      "rights_note": "Publisher-owned scholarly article. Link by DOI; do not republish the article text."
+    },
+    {
+      "id": "SRC-SCOTT-1982",
+      "title": "Remote viewing",
+      "authors_or_owner": "Christopher Scott; Nature",
+      "date": "1982-08-05",
+      "source_type": "peer_reviewed_critique",
+      "locator": "https://doi.org/10.1038/298414c0",
+      "authority": "scholarly_primary_source",
+      "evidence_role": [
+        "methodological_critique",
+        "negative_interpretation"
+      ],
+      "stance_or_result": "Critiques the evidential interpretation of remote-viewing experiments and the handling of alternative explanations.",
+      "limitations": "A short critical contribution, not a comprehensive meta-analysis of the full later literature.",
+      "rights_note": "Publisher-owned scholarly article. Link by DOI; do not republish the article text."
+    },
+    {
+      "id": "SRC-NRC-1988",
+      "title": "Enhancing Human Performance: Issues, Theories, and Techniques",
+      "authors_or_owner": "National Research Council, Committee on Techniques for the Enhancement of Human Performance",
+      "date": "1988-01-01",
+      "source_type": "consensus_review",
+      "locator": "https://doi.org/10.17226/1025",
+      "authority": "independent_consensus_review",
+      "evidence_role": [
+        "government_requested_review",
+        "paranormal_phenomena_assessment",
+        "critical_consensus"
+      ],
+      "stance_or_result": "The committee reported little or no scientifically supportable evidence for remote viewing and related claimed enhancement techniques in the evidence it reviewed.",
+      "limitations": "Covers a defined pre-1988 evidence base and multiple enhancement topics; later studies require separate review.",
+      "rights_note": "National Academies publication. Link to the DOI/read-online record and observe its terms."
+    },
+    {
+      "id": "SRC-UTTS-1995",
+      "title": "An Assessment of the Evidence for Psychic Functioning",
+      "authors_or_owner": "Jessica Utts; prepared for the 1995 AIR evaluation",
+      "date": "1995-09-01",
+      "source_type": "expert_statistical_review",
+      "locator": "https://doi.org/10.30891/jopar.2018S.01.10",
+      "authority": "commissioned_expert_assessment",
+      "evidence_role": [
+        "positive_statistical_assessment",
+        "effect_size_interpretation",
+        "mechanism_discussion"
+      ],
+      "stance_or_result": "Argues that anomalous cognition had been demonstrated under the reviewed laboratory conditions and discusses repeatable statistical effects.",
+      "limitations": "One commissioned expert interpretation; the conclusion was directly contested by the paired Hyman assessment and does not establish operational usefulness.",
+      "rights_note": "Link to the later journal reprint/DOI and the official AIR compilation; do not republish the complete article."
+    },
+    {
+      "id": "SRC-HYMAN-1995",
+      "title": "Evaluation of Program on Anomalous Mental Phenomena",
+      "authors_or_owner": "Ray Hyman; prepared for the 1995 AIR evaluation",
+      "date": "1995-09-01",
+      "source_type": "expert_methodological_review",
+      "locator": "https://ics.uci.edu/~jutts/hyman.html",
+      "authority": "commissioned_expert_assessment",
+      "evidence_role": [
+        "critical_statistical_assessment",
+        "replication_requirements",
+        "alternative_explanations"
+      ],
+      "stance_or_result": "Acknowledges a statistical anomaly in the better SAIC experiments while arguing that paranormal functioning was not established without independent replication and stronger exclusion of alternatives.",
+      "limitations": "One commissioned expert interpretation; it does not show that every observed deviation was caused by one identified ordinary artifact.",
+      "rights_note": "Link to the author-hosted transcription and the official AIR compilation."
+    },
+    {
+      "id": "SRC-TRESSOLDI-KATZ-2023",
+      "title": "Remote Viewing: a 1974-2022 systematic review and meta-analysis",
+      "authors_or_owner": "Patrizio Tressoldi and Alex Katz; Journal of Scientific Exploration",
+      "date": "2023-10-19",
+      "source_type": "systematic_review_and_meta_analysis",
+      "locator": "https://doi.org/10.31275/20232931",
+      "authority": "scholarly_secondary_source",
+      "evidence_role": [
+        "modern_positive_synthesis",
+        "effect_size_aggregation",
+        "heterogeneity_review"
+      ],
+      "stance_or_result": "Reports a positive aggregate effect across the studies meeting the authors' criteria after specified outlier handling.",
+      "limitations": "The field remains contested; study dependence, publication selection, protocol heterogeneity, scoring, and source-study quality require independent sensitivity analysis.",
+      "rights_note": "Journal article licensed CC BY-NC 4.0 on the journal page. Link by DOI; preserve author/journal attribution and license terms."
+    },
+    {
+      "id": "SRC-ESCOLA-GASCON-2023",
+      "title": "Follow-up on the U.S. Central Intelligence Agency's (CIA) remote viewing experiments",
+      "authors_or_owner": "Álex Escolà-Gascón, James Houran, Neil Dagnall, Kenneth Drinkwater, and Andrew Denovan; Brain and Behavior",
+      "date": "2023-05-03",
+      "source_type": "peer_reviewed_follow_up_study",
+      "locator": "https://doi.org/10.1002/brb3.3026",
+      "authority": "scholarly_primary_source",
+      "evidence_role": [
+        "modern_quasi_experimental_follow_up",
+        "forced_choice_remote_viewing",
+        "emotional_intelligence_hypothesis",
+        "mixed_group_results"
+      ],
+      "stance_or_result": "Reports a large quasi-experimental follow-up: one group analysis was nonsignificant, while another group and several subsamples produced significant forced-choice results and associations with experiential emotional intelligence under the authors’ analyses.",
+      "limitations": "The design was quasi-experimental rather than a randomized replication, group definitions and belief differences matter, the mechanism model is exploratory, and the result requires independent preregistered replication and reanalysis.",
+      "rights_note": "Open-access Wiley article. Link by DOI and preserve the article-specific license and attribution."
+    },
+    {
+      "id": "SRC-AKIN-TRESSOLDI-KATZ-2026",
+      "title": "Experts’ Remote Viewing Guidelines",
+      "authors_or_owner": "Akin, Tressoldi, and Katz; Journal of Scientific Exploration",
+      "date": "2026-03-26",
+      "source_type": "expert_consensus_survey",
+      "locator": "https://doi.org/10.31275/20263687",
+      "authority": "expert_opinion_study",
+      "evidence_role": [
+        "current_practice_guidance",
+        "expert_agreement_and_disagreement",
+        "protocol_hypotheses"
+      ],
+      "stance_or_result": "Reports areas of provisional agreement among eleven experienced remote-viewing practitioners or researchers, including blinding, training, neutral conditions, and the potential value of multiple viewers, while retaining disagreements.",
+      "limitations": "Expert opinion and consensus mapping are not randomized evidence that the recommended elements improve accuracy.",
+      "rights_note": "Journal article licensed CC BY-NC 4.0 on the journal page. Link by DOI; preserve author/journal attribution and license terms."
+    }
+  ]
+}
