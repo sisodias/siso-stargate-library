@@ -67,10 +67,7 @@ Write the cue once. On first exposure, make one rapid spontaneous mark without t
 **Ideogram / spontaneous mark:**
 
 ```text
-
-
-
-
+[draw the immediate mark here]
 ```
 
 Trace once, without inventing detail. Record the first broad impressions:
@@ -134,15 +131,7 @@ Breaks or disturbances:
 Draw boundaries, masses, relationships, perspective, horizons, paths, motion, and relative scale. Label only with raw descriptors or neutral element IDs such as `A`, `B`, and `C`.
 
 ```text
-
-
-
-
-
-
-
-
-
+[draw the spatial sketch here; attach additional numbered pages if needed]
 ```
 
 ### Spatial inventory
@@ -226,15 +215,7 @@ Use only when the protocol calls for it. Record the exact movement instruction b
 **Expanded sketch / model notes:**
 
 ```text
-
-
-
-
-
-
-
-
-
+[draw the expanded sketch or record model notes here]
 ```
 
 If a physical model was made, record photograph or artifact IDs:
