@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "record_type": "remote_viewing_source_index",
+  "module": "remote-viewing-research-and-practice",
+  "observed_at": "2026-08-07",
+  "scope_note": "A selective, evidence-balanced index for the first module release. It is not a complete inventory of the CIA STARGATE collection or the scholarly literature.",
+  "publication_boundary": "The module links to external records and publishes original metadata and synthesis. It does not mirror external document payloads or imply redistribution rights.",
+  "source_files": [
+    "sources/government-and-practice.json",
+    "sources/scholarly-and-reviews.json"
+  ]
+}
