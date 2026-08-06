@@ -3,10 +3,11 @@
   "record_type": "remote_viewing_source_index",
   "module": "remote-viewing-research-and-practice",
   "observed_at": "2026-08-07",
-  "scope_note": "A selective, evidence-balanced index for the first module release. It is not a complete inventory of the CIA STARGATE collection or the scholarly literature.",
-  "publication_boundary": "The module links to external records and publishes original metadata and synthesis. It does not mirror external document payloads or imply redistribution rights.",
+  "scope_note": "A selective, evidence-balanced index for the first module release. It is not a complete inventory of the CIA STARGATE collection, the scholarly literature, or the civilian remote-viewing ecosystem.",
+  "publication_boundary": "The module links to external records and publishes original metadata and synthesis. It does not mirror external document payloads, applications, community posts, or media and does not imply redistribution rights.",
   "source_files": [
     "sources/government-and-practice.json",
-    "sources/scholarly-and-reviews.json"
+    "sources/scholarly-and-reviews.json",
+    "sources/civilian-tools-media-and-state.json"
   ]
 }
