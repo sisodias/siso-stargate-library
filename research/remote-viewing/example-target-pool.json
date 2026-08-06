@@ -1,0 +1,192 @@
+{
+  "schema_version": "0.1.0",
+  "record_type": "remote_viewing_target_pool",
+  "pool_id": "RV-DEMO-CONTRAST-001",
+  "created_at": "2026-08-07T00:00:00+07:00",
+  "purpose": "Tooling demonstration and beginner workflow rehearsal only.",
+  "warning": "NOT A FORMAL RESEARCH POOL. The targets are publicly recognizable, the feedback locators can change, target classes are not statistically balanced, and repeated use creates pool-learning leakage. Replace with exact frozen feedback artifacts, symmetrical candidate construction, rights receipts, and a preregistered sampling rule before any study.",
+  "assignment_unit": "one target record",
+  "default_task": "Describe the target associated with the opaque cue. Prioritize raw sensory and spatial information before interpretation.",
+  "targets": [
+    {
+      "id": "RV-DEMO-T001",
+      "title": "Old Faithful geyser erupting",
+      "target_class": "natural_dynamic_water",
+      "feedback_locator": "https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm",
+      "feedback_definition": "The Old Faithful geyser during an eruption: a narrow vertical plume of hot water and steam rising from an open geothermal basin.",
+      "features": [
+        "strong vertical movement",
+        "hot water and steam",
+        "open ground",
+        "white plume",
+        "rhythmic natural event"
+      ],
+      "rights_note": "External National Park Service feedback locator. Link only; freeze and document an exact permitted feedback artifact for a formal pool."
+    },
+    {
+      "id": "RV-DEMO-T002",
+      "title": "Saturn and its ring system",
+      "target_class": "astronomical",
+      "feedback_locator": "https://science.nasa.gov/saturn/",
+      "feedback_definition": "The planet Saturn viewed with its broad, thin ring system surrounding a spherical body against dark space.",
+      "features": [
+        "large sphere",
+        "concentric flat rings",
+        "dark surrounding field",
+        "cold remote environment",
+        "high symmetry"
+      ],
+      "rights_note": "External NASA feedback locator. Link only; check the exact image credit and usage statement before freezing a formal target."
+    },
+    {
+      "id": "RV-DEMO-T003",
+      "title": "Golden Gate Bridge",
+      "target_class": "manmade_linear_over_water",
+      "feedback_locator": "https://www.goldengate.org/bridge/visiting-the-bridge/",
+      "feedback_definition": "A long suspension bridge with two tall towers and cables spanning open water between land masses.",
+      "features": [
+        "long horizontal span",
+        "two vertical towers",
+        "repeating cables",
+        "water below",
+        "traffic movement"
+      ],
+      "rights_note": "External Golden Gate Bridge Highway and Transportation District locator. Link only; acquire a licensed exact image for formal use."
+    },
+    {
+      "id": "RV-DEMO-T004",
+      "title": "Grand Canyon overlook",
+      "target_class": "natural_vast_landform",
+      "feedback_locator": "https://www.nps.gov/grca/index.htm",
+      "feedback_definition": "A vast layered canyon with steep exposed rock walls, deep open space, and a winding river far below.",
+      "features": [
+        "enormous scale",
+        "deep void",
+        "layered rough rock",
+        "warm earth colours",
+        "distant winding water"
+      ],
+      "rights_note": "External National Park Service locator. Link only; freeze an exact permitted photograph for formal use."
+    },
+    {
+      "id": "RV-DEMO-T005",
+      "title": "Large Hadron Collider tunnel",
+      "target_class": "manmade_enclosed_technical",
+      "feedback_locator": "https://home.cern/science/accelerators/large-hadron-collider",
+      "feedback_definition": "An enclosed underground accelerator tunnel containing a long curved line of large cylindrical technical equipment, cables, and repeating components.",
+      "features": [
+        "underground enclosure",
+        "long curve",
+        "repeating cylinders",
+        "metal and cables",
+        "industrial technical function"
+      ],
+      "rights_note": "External CERN locator. Link only; select and license an exact feedback image for formal use."
+    },
+    {
+      "id": "RV-DEMO-T006",
+      "title": "Sydney Opera House",
+      "target_class": "manmade_angular_curved_waterfront",
+      "feedback_locator": "https://www.sydneyoperahouse.com/our-story/sydney-opera-house",
+      "feedback_definition": "A waterfront performing-arts complex formed by multiple bright shell- or sail-like roof structures on a broad platform.",
+      "features": [
+        "multiple white curved shells",
+        "waterfront setting",
+        "repeating pointed forms",
+        "large public structure",
+        "open sky"
+      ],
+      "rights_note": "External Sydney Opera House locator. Link only; exact image rights require separate review."
+    },
+    {
+      "id": "RV-DEMO-T007",
+      "title": "Kīlauea lava fountain",
+      "target_class": "natural_dynamic_fire",
+      "feedback_locator": "https://www.usgs.gov/volcanoes/kilauea",
+      "feedback_definition": "A volcanic eruption with incandescent molten rock, bright orange-red fountains, dark crust, heat, smoke, and flowing material.",
+      "features": [
+        "extreme heat",
+        "bright orange-red material",
+        "fountain or flow movement",
+        "dark rough ground",
+        "smoke or gas"
+      ],
+      "rights_note": "External U.S. Geological Survey locator. Link only; verify the credit and exact public-domain status of any formal feedback image."
+    },
+    {
+      "id": "RV-DEMO-T008",
+      "title": "International Space Station interior cupola",
+      "target_class": "manmade_enclosed_space_view",
+      "feedback_locator": "https://www.nasa.gov/international-space-station/space-station-gallery/",
+      "feedback_definition": "The International Space Station cupola: a compact technical interior with multiple angled windows looking down on Earth.",
+      "features": [
+        "small enclosed compartment",
+        "multiple windows",
+        "curved Earth outside",
+        "technical panels",
+        "weightless environment"
+      ],
+      "rights_note": "External NASA gallery locator. Link only; check the exact image credit and usage conditions before formal use."
+    },
+    {
+      "id": "RV-DEMO-T009",
+      "title": "Niagara Falls",
+      "target_class": "natural_dynamic_water_horizontal",
+      "feedback_locator": "https://www.nps.gov/places/niagara-falls.htm",
+      "feedback_definition": "A broad massive waterfall dropping over a curved edge into turbulent water and mist below.",
+      "features": [
+        "wide horizontal edge",
+        "large downward water movement",
+        "roaring sound",
+        "mist",
+        "curved boundary"
+      ],
+      "rights_note": "External National Park Service locator. Link only; freeze an exact permitted photograph for formal use."
+    },
+    {
+      "id": "RV-DEMO-T010",
+      "title": "Wind turbines on an open plain",
+      "target_class": "manmade_repeating_motion_land",
+      "feedback_locator": "https://www.energy.gov/eere/wind/how-do-wind-turbines-work",
+      "feedback_definition": "A group of tall wind turbines with three-bladed rotors spaced across an open landscape.",
+      "features": [
+        "repeating tall towers",
+        "three-bladed rotation",
+        "open land",
+        "wind movement",
+        "large spacing"
+      ],
+      "rights_note": "External U.S. Department of Energy locator. Link only; verify exact asset rights before formal use."
+    },
+    {
+      "id": "RV-DEMO-T011",
+      "title": "Monterey Bay kelp forest",
+      "target_class": "natural_underwater_biological",
+      "feedback_locator": "https://www.montereybayaquarium.org/animals/habitats/kelp-forest",
+      "feedback_definition": "An underwater kelp forest with long flexible vertical fronds, filtered green-blue light, fish, and continuous swaying movement.",
+      "features": [
+        "underwater environment",
+        "green-blue light",
+        "long flexible vertical forms",
+        "swaying motion",
+        "biological activity"
+      ],
+      "rights_note": "External Monterey Bay Aquarium locator. Link only; exact feedback media require permission or a separately licensed source."
+    },
+    {
+      "id": "RV-DEMO-T012",
+      "title": "Antarctic iceberg",
+      "target_class": "natural_cold_water_ice",
+      "feedback_locator": "https://www.antarctica.gov.au/about-antarctica/ice-and-atmosphere/sea-ice/icebergs/",
+      "feedback_definition": "A massive irregular white-blue iceberg rising from dark cold ocean water in an open polar environment.",
+      "features": [
+        "very cold",
+        "white-blue angular mass",
+        "water surrounding",
+        "large hidden volume",
+        "open sparse environment"
+      ],
+      "rights_note": "External Australian Antarctic Program locator. Link only; exact media rights require separate review."
+    }
+  ]
+}
