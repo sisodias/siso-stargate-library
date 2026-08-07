@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "record_type": "event",
+  "id": "gls:event:6194ba36-162e-41e5-a107-60780eb6b6bc",
+  "occurred_at": "2026-08-07T02:35:00+07:00",
+  "recorded_at": "2026-08-07T02:35:00+07:00",
+  "immutable": true,
+  "entry_type": "initiative_started",
+  "thread": {
+    "id": "gls:thread:psychoenergetics-terrain-scan",
+    "name": "Multi-century psychoenergetics terrain scan",
+    "kind": "research"
+  },
+  "status": "active",
+  "title": "Multi-century psychoenergetics terrain scan started",
+  "summary": "A source-dense extension to the remote-viewing module is mapping the full U.S. programme lineage, foreign assessments, SRI and Monroe records, adjacent programmes, historical analogues, disputed claims, bulk-acquisition nodes, and unresolved evidence gaps.",
+  "intent": "Produce the requested source-vector index and master terrain report under the existing remote-viewing Research module, while separating official records, peer-reviewed findings, practitioner theory, historical analogy, and unsupported modern extrapolation.",
+  "reasoning": [
+    "The existing remote-viewing draft pull request already owns method, practice, initial evidence balance, and integrity tooling; this lane extends it rather than rewriting its completed Event or creating a duplicate repository.",
+    "The requested siso-stargate-library repository does not exist as a separate accessible repository, while the Great Library already contains the canonical remote-viewing module and a declassified-government-records department.",
+    "The user-provided research prompt contains both documentable targets and claims that require correction or explicit uncertainty, including direct MKULTRA lineage, ancient Egyptian acoustic levitation, a Hall of Records, Delphi brainwave engineering, and later UAP programme continuity.",
+    "The Great Library is a registry and reading surface rather than an uncontrolled payload warehouse, so raw records will be represented by acquisition manifests, exact locators, custody, rights, and verification state rather than bulk-copied PDFs.",
+    "A dependent branch and pull request preserve the completed first module and make this larger scan reviewable on its own."
+  ],
+  "changes": [
+    {
+      "kind": "coordination",
+      "reference": "gls:thread:psychoenergetics-terrain-scan",
+      "summary": "Reserved a dependent data-and-report extension beneath the existing remote-viewing module."
+    }
+  ],
+  "scope": {
+    "repository_urls": [
+      "https://github.com/sisodias/great-library-of-siso"
+    ]
+  },
+  "coordination": {
+    "owner": "GPT-5.6 Pro for Shaan Sisodia",
+    "branch": "agent/psychoenergetics-terrain-scan",
+    "reserved_paths": [
+      "research/remote-viewing/data/**",
+      "registry/events/2026-08-07-psychoenergetics-terrain-*.json"
+    ]
+  },
+  "visibility": "public",
+  "evidence": [
+    {
+      "kind": "documentation",
+      "reference": "user-intent:multi-century-psychoenergetics-scan:2026-08-07",
+      "observed_at": "2026-08-07",
+      "summary": "Shaan supplied an executable research specification covering U.S. and Soviet programme lineage, SRI, CRV, Monroe/Gateway, historical and religious analogues, source indexing, and a master terrain assessment."
+    },
+    {
+      "kind": "integration_check",
+      "reference": "github:sisodias/great-library-of-siso:pull/7@c9e487615566e128eb0986e76cccd5a9412490bf",
+      "observed_at": "2026-08-07",
+      "summary": "The existing 17-file Remote Viewing Research and Practice module was inspected; this branch starts from its exact head and reserves only a new data subtree plus append-only Event records."
+    },
+    {
+      "kind": "source_review",
+      "reference": "source-review:stargate-overview-air-gateway-lineage:2026-08-07",
+      "observed_at": "2026-08-07",
+      "summary": "The 1993 DIA STAR GATE overview, 1995 AIR evaluation, 1983 Gateway assessment, INSCOM/DIA transfer records, and mixed operational session files were checked before defining the extension."
+    }
+  ],
+  "next_actions": [
+    "Build a machine-readable source index with document IDs, URLs, custody, evidence tier, claim status, acquisition state, and known gaps.",
+    "Author a master report covering programme lineage, key evaluations, SRI and CRV protocols, Monroe, foreign and adjacent programmes, historical analogues, scientific explanations, claim audit, and corpus-acquisition design.",
+    "Validate JSON, Markdown references, duplicate identifiers, and public-safety boundaries; publish a completion Event and open a dependent draft pull request against the existing remote-viewing branch."
+  ]
+}
