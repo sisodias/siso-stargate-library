@@ -1,0 +1,49 @@
+# SISO Stargate Library — agent entrypoint
+
+## Purpose and boundary
+
+This repository contains the authored Remote Viewing Research & Practice
+module under `research/remote-viewing/`. It keeps practice, evidence, and
+theory separate and does not certify paranormal ability, provide intelligence
+tradecraft, or recommend action against real people.
+
+The repository is the registered Great Library Work
+`gls:work:8e2b4f07-3a91-4c58-9d16-7b05e3ca2841`. The Remote Viewing module is
+still authored research rather than its own Work or Release; its promotion,
+source-preservation, rights-review, and generated-publication gates remain in
+`research/remote-viewing/HANDOFF.md`.
+
+## Boot sequence
+
+1. Read [`README.md`](README.md) for the repository truth boundary.
+2. Read [`research/remote-viewing/README.md`](research/remote-viewing/README.md)
+   before changing the research module.
+3. Read [`research/remote-viewing/HANDOFF.md`](research/remote-viewing/HANDOFF.md)
+   before changing promotion, registry, or publication assumptions.
+
+## Verification
+
+From the repository root, run the non-mutating module checks:
+
+```bash
+python3 research/remote-viewing/verify_module.py
+python3 -m unittest discover -s research/remote-viewing/tools -p 'test_*.py'
+```
+
+The verifier checks required files, JSON records, source and claim references,
+relative links, publication-safety patterns, Python compilation, and the target
+manager tests. The test suite covers the target-manager assignment, lock, reveal,
+tamper, and overwrite boundaries.
+
+## Protection rules
+
+- Keep practice, evidence, and theory claims separate; do not turn practitioner
+  vocabulary into an established mechanism.
+- Do not add copied external PDFs, databases, archives, or other payloads; keep
+  source locators and rights notes explicit.
+- Do not add machine-specific paths, credentials, or private assignments.
+- Do not hand-author a generated `site/` output or promote the module into a
+  Work, Release, Source Inventory, or Snapshot without the documented gates.
+- Treat `tools/target_manager.py` as an integrity aid only. It does not encrypt
+  assignments, create a self-run double-blind study, score sessions, or prove
+  target correspondence.
