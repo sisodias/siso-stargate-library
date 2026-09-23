@@ -1,5 +1,7 @@
 # SISO Stargate Library — agent entrypoint
 
+**In one line:** Remote-viewing research module that keeps practice, evidence and theory separate, tracking 33 claims each with the evidence gate that would change its status. District: `Great_Library_of_SISO` (`~/SISO_Workspace/Great_Library_of_SISO/works/siso-stargate-library`).
+
 ## Purpose and boundary
 
 This repository contains the authored Remote Viewing Research & Practice
