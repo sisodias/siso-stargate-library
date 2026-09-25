@@ -46,6 +46,6 @@ tamper, and overwrite boundaries.
 - Do not add machine-specific paths, credentials, or private assignments.
 - Do not hand-author a generated `site/` output or promote the module into a
   Work, Release, Source Inventory, or Snapshot without the documented gates.
-- Treat `tools/target_manager.py` as an integrity aid only. It does not encrypt
+- Treat `research/remote-viewing/tools/target_manager.py` as an integrity aid only. It does not encrypt
   assignments, create a self-run double-blind study, score sessions, or prove
   target correspondence.
