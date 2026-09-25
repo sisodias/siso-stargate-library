@@ -8,7 +8,7 @@
 | Where it sits | `~/SISO_Workspace/Great_Library_of_SISO/works/siso-stargate-library` · district Great_Library_of_SISO · GitHub sisodias/siso-stargate-library |
 | Owner | not yet assigned; the top Agent Zero (herdr A0, SISO_Agents/agent-zero/siso-firstmate) holds it |
 | Run it | no entry point declared; see `README.md` |
-| Write here | .agents/ is this repo's one agent folder (ADR 0015); create what you need there |
+| Write here | `.agents/memory/MEMORY.md` (durable facts, one file each plus an index line) |
 | Worktrees | _data/worktrees/siso-stargate-library/&lt;lane&gt; (never beside or inside the repo) |
 | Find anything | `estate where <words>`; the city map is `estate map` |
 <!-- estate:door end -->
