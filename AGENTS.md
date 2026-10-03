@@ -6,7 +6,7 @@
 | Door | |
 |---|---|
 | Where it sits | `~/SISO_Workspace/Great_Library_of_SISO/works/siso-stargate-library` · district Great_Library_of_SISO · GitHub sisodias/siso-stargate-library |
-| Owner | not yet assigned; the top Agent Zero (herdr A0, SISO_Agents/agent-zero/siso-firstmate) holds it |
+| Owner | not yet assigned; Agent Zero (SISO_Agents/agent-zero/siso-agent-zero) holds it |
 | Run it | no entry point declared; see `README.md` |
 | Write here | `.agents/memory/MEMORY.md` (durable facts, one file each plus an index line) |
 | Worktrees | `~/SISO_Workspace/_data/worktrees/siso-stargate-library/<lane>` (never beside or inside the repo) |
